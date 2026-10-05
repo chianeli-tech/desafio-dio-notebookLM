@@ -62,7 +62,3 @@ Acervo de comandos prontos para simulações e estudos continuados com Inteligê
 - **Prompts de Negócios & Residências**: Redação de propostas comerciais (pitches) para gerentes de clubes, roteiros de abordagem a promoters, criação de conceitos de noites temáticas e estrutura de *Press Kit* (EPK).
 - **Prompts de Curadoria e Leitura de Pista**: Simulação de cenários de pista (gerenciamento de pista vazia no *warm-up*, transição para o horário de pico) e seleção de repertório estratégico.
 ```
-
----
-
-🎛️ **Quer que eu ajude a criar um arquivo de apresentação visual ou um roteiro de postagem no LinkedIn/Instagram para divulgar este projeto do GitHub?**
